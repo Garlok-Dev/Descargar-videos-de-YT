@@ -4,7 +4,7 @@ Descarga de vídeos de YouTube con la librería de Python Pytube
 
 Para usar este repositorio tendras que tener instalado Python y la libreria PyTube. 
 
-Puedes descargar la libreria Pytube escribiendo en la terminal:
+Puedes descargar la librería Pytube escribiendo en la terminal:
 
   · pip install pytube
  
