@@ -21,6 +21,6 @@ Despues escribe:
   
 o si usas python3:
 
-  · py3 code.py
+  · python3 code.py
   
 TE INVITO A ENTRAR EN Garlok-Dev.github.io O SEGUIRME EN TWITTER @Garlok_Dev
