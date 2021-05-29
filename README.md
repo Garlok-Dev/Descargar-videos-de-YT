@@ -1,5 +1,5 @@
 # Descargar-videos-de-YT
-Descarga de vídeos de YouTube con la librería de Python PyTube
+Descarga vídeos de YouTube con la librería de Python PyTube
 
 
 Para usar este repositorio tendras que tener instalado Python y la libreria PyTube. 
