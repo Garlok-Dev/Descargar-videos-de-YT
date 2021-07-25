@@ -1,13 +1,13 @@
 from pytube import YouTube
 
-#Aquí preguntamos la URL del video
-yt = YouTube(input("Inserta aquí la URL, porfi :) = "))
+#Here we ask for the URL
+yt = YouTube(input("Insert here the URL, plz :) = "))
 
-#Descargando video...
-print("Descargando ' " + yt.title + " '...")
+#Downloading video...
+print("Downloading ' " + yt.title + " '...")
 stream = yt.streams.first()
 stream.download()
-print("")
-print("Listo ya puedes disfrutar de tu video, hasta la proxima :)")
+print("\n")
+print("Ready now you can enjoy your video, until next time :)")
 
-#El video se descargara en la misma ubucacion donde se ubique el archivo code.py
+#The video is downloaded to the same location where the code.py file is located
