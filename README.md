@@ -1,26 +1,25 @@
 # Descargar-videos-de-YT
-Descarga vídeos de YouTube con la librería de Python PyTube
+Download the Youtube videos with the pytube library
 
+To use this repository, you will need to have Python and the PyTube library installed.
 
-Para usar este repositorio tendras que tener instalado Python y la libreria PyTube. 
+You can download the Pytube library by typing in terminal:
 
-Puedes descargar la librería Pytube escribiendo en la terminal:
-
-  · pip install pytube
+     ·pip install pytube
  
-o si usas python3:
+or if you use python3:
 
-  · pip3 install pytube
+     p·ip3 install pytube
   
-El  programa te pedira la URL del video y posteriormente la descargara en la misma carpeta donde este el programa (code.py).
+The program will ask you for the URL of the video and then it will download it in the same folder where the program is (code.py).
 
-Para abrir el programa abre la terminal y dirigete a la carpeta donde este el programa.
-Despues escribe:
+To open the program, open the terminal and go to the folder where the program is.
+Then write:
 
-  · py code.py  o  python code.py
+     ·py code.py or python code.py
   
-o si usas python3:
+or if you use python3:
 
-  · python3 code.py
+     ·python3 code.py
   
-TE INVITO A ENTRAR EN Garlok-Dev.github.io O SEGUIRME EN TWITTER @Garlok_Dev
+I INVITE YOU TO ENTER https://Garlok-Dev.github.io OR FOLLOW ME ON TWITTER @Garlok_Dev
